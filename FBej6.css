@@ -1,0 +1,15 @@
+div {
+    background-color: black;
+    color: white;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content:flex-start;
+    padding-top: 30px;
+}
+p {
+    background-color: #008CC1;
+    height: 150px;
+    width: 150px;
+    margin: 0;
+}

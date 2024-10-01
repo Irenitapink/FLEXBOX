@@ -1,0 +1,9 @@
+p {
+    background-color: rgb(218, 205, 205);
+    border: 1px solid black;
+    margin: 0;
+    padding: 12px;
+}
+div {
+    display: flex;
+}

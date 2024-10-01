@@ -1,0 +1,13 @@
+div {
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+p {
+    background-color: #008CC1;
+    height: 150px;
+    width: 150px;
+    margin: 0;
+}

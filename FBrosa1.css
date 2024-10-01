@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(238, 182, 243);
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+footer {
+    background-color: rgb(193, 132, 243);
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+main {
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

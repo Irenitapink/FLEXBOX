@@ -1,0 +1,28 @@
+header {
+    background-color: rgb(238, 182, 243);
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+footer {
+    background-color: rgb(193, 132, 243);
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.content {
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+nav {
+    background-color: rgb(118, 64, 218);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
